@@ -1,0 +1,15 @@
+.today {
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+
+
+
+.today > h3 {
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 35px;
+}
